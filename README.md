@@ -12,7 +12,7 @@
 
 ## 📚 Project information.
 
-- I developed this API with the purpose of deepening my knowledge about the internal workings of microframeworks such as "Express" and "Fastify", among others. This understanding enhances my development process, helping to increase our productivity as developers.
+- I developed this API with the purpose of deepening my knowledge about the internal workings of microframeworks such as "Express" and "Fastify", among others. This understanding enhances my development process, helping to increase my productivity as developers.
 &nbsp;
 
 ## 💻 What's in the project?
