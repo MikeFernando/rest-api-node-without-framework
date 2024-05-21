@@ -12,7 +12,7 @@
 
 ## 📚 Project information.
 
-- The intention behind creating this API is to deepen our understanding of the inner workings of microframeworks such as "Express" and "Fastify", aiming to facilitate the development process and increase developer productivity.
+- I developed this API with the purpose of deepening my knowledge about the internal workings of microframeworks such as "Express" and "Fastify", among others. This understanding enhances my development process, helping to increase our productivity as developers.
 &nbsp;
 
 ## 💻 What's in the project?
