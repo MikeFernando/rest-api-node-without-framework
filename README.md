@@ -1,10 +1,10 @@
-# Teams 💚 | feito com React-Native
+# CRUD 💚 | just nodejs without framework
 
 <p align="left">
     <p align="left" >
         <img    
             alt="teams" 
-            src="./github/1.png" 
+            src="./1.png" 
         />
         </a>
     </p>
