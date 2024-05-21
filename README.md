@@ -10,7 +10,7 @@
     </p>
 </p>
 
-## 📚 Informações sobre o projeto.
+## 📚 Project information.
 
 - The intention behind creating this API is to deepen our understanding of the inner workings of microframeworks such as "Express" and "Fastify", aiming to facilitate the development process and increase developer productivity.
 &nbsp;
