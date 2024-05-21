@@ -36,13 +36,13 @@ To generate a copy of the project and implement its improvements, be on a comput
 1 clone o project
 
 ```
-git clone https://github.com/MikeFernando/teams-react-native.git
+git clone https://github.com/MikeFernando/Rest-Api-Node-Without-Framework.git
 ```
 
 2 Access the project folder through the terminal with the command
 
 ```
-cd teams-react-native
+cd Rest-Api-Node-Without-Framework
 ```
 
 3 Install necessary dependencies with the command
